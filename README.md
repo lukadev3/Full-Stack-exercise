@@ -14,11 +14,7 @@ To run this application, you need to have the PaymentAPI opened in Visual Studio
 
 ### Installation
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/payment-app.git
-```
+1. Clone this repository
 
 2. Open PaymentAPI in Visual Studio and run the application.
 
