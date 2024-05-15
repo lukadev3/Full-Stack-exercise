@@ -18,6 +18,7 @@ To run this application, you need to have the PaymentAPI opened in Visual Studio
 
 ```bash
 git clone https://github.com/your-username/payment-app.git
+```
 
 2. Open PaymentAPI in Visual Studio and run the application.
 
@@ -26,6 +27,7 @@ git clone https://github.com/your-username/payment-app.git
 ```bash
 npm install
 ng serve
+```
 
 4. Open your web browser and go to http://localhost:4200/ to view the application.
 
