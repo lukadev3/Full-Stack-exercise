@@ -287,3 +287,4 @@ C:\Users\Luka\OneDrive\Desktop\Full Stack exercise\PaymentAPI\PaymentAPI\bin\Deb
 C:\Users\Luka\OneDrive\Desktop\Full Stack exercise\PaymentAPI\PaymentAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Luka\OneDrive\Desktop\Full Stack exercise\PaymentAPI\PaymentAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Luka\OneDrive\Desktop\Full Stack exercise\PaymentAPI\PaymentAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Luka\OneDrive\Desktop\Full Stack exercise\PaymentAPI\PaymentAPI\obj\Debug\net8.0\PaymentAPI.sourcelink.json
