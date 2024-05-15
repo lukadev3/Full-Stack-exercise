@@ -31,8 +31,11 @@ ng serve
 
 4. Open your web browser and go to http://localhost:4200/ to view the application.
 
-### Usage
+## Usage
 Once the application is running, you can interact with it to manipulate payment data.
 
-### Contributing
+## Contributing
 Contributions are welcome. Feel free to open an issue or submit a pull request.
+
+## Note
+This project is created as part of a YouTube tutorial series for practice purposes.
